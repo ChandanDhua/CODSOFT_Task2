@@ -1,0 +1,83 @@
+/* Resetting default margin and padding */
+body, h1, h2, h3, p, ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Styling header */
+  header {
+    text-align: center;
+    padding: 40px;
+    background-color: #333;
+    color: #fff;
+  }
+  
+  /* Styling about section */
+  #about {
+    text-align: center;
+    padding: 40px;
+  }
+  
+  #about img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px;
+  }
+  
+  /* Styling skills section */
+  #skills {
+    text-align: center;
+    padding: 40px;
+  }
+  
+  #skills ul {
+    list-style: none;
+  }
+  
+  /* Styling projects section */
+  #projects {
+    padding: 40px;
+  }
+  
+  .project {
+    margin-bottom: 30px;
+  }
+  
+  .project img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  /* Styling resume section */
+  #resume {
+    text-align: center;
+    padding: 40px;
+  }
+  
+  #resume a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  
+  /* Styling contact section */
+  #contact {
+    text-align: center;
+    padding: 40px;
+  }
+  
+  /* Styling footer */
+  footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+  }
+  
